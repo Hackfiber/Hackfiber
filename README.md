@@ -24,7 +24,7 @@
 
 ### Hackfiber Github Stats:
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Hackfiber&show_icons=true&hide_border=true" />
+[<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Hackfiber&show_icons=true&hide_border=true" />]
 
 <br />
 
