@@ -8,6 +8,7 @@
 - 👯 We organize various events by collaborating with other community.
 
 <br />
+
 ---
 
 ### Connect with us:
@@ -24,7 +25,7 @@
 
 ### Hackfiber Github Stats:
 
-[<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Hackfiber&show_icons=true&hide_border=true" />]
+<img align="left" height="100%" width="100%" alt="Hackfiber's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Hackfiber&show_icons=true&hide_border=true" />
 
 <br />
 
