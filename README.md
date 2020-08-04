@@ -1,5 +1,9 @@
 ### Hi there, We are Hackfiber Community - aka [Hackfiber][website] 👋
 
+<br />
+
+---
+
 ### What we work on :  
 - 🔭 Developing a developer friendly community platform in Nepal.
 - 🌱 Developing your personal leadership skills.
@@ -51,8 +55,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Hackfiber&show_icons=true&hide_border=true" />
 
 [website]: https://hackfiber.com
 [facebook]: https://facebook.com/hackfiber
