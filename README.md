@@ -30,6 +30,7 @@
 [<img align="left" height="100%" width="100%" alt="Hackfiber's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Hackfiber&show_icons=true&hide_border=true" />](https://github-repo-stats.hackfiber.vercel.app/api?username=Hackfiber&show_icons=true&hide_border=true)
 
 <br />
+
 ---
 
 
@@ -37,7 +38,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hackfiber)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
