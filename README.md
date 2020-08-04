@@ -12,7 +12,7 @@
 [<img align="left" alt="Hackfiber.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Hackfiber | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Hackfiber | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Hackfiber | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<!-- [<img align="left" alt="Hackfiber | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
 [<img align="left" alt="Hackfiber | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
@@ -67,7 +67,7 @@
 
 [website]: https://hackfiber.com
 [twitter]: https://twitter.com/hackfiber
-[youtube]: https://youtube.com/hackfiber
+[youtube]: https://www.youtube.com/channel/UC251nfpoP9BQLaqa2jPRpLA
 [instagram]: https://instagram.com/hackfiber
 [linkedin]: https://linkedin.com/in/hackfiber
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
