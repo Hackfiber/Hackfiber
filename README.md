@@ -27,7 +27,6 @@
 
 <br />
 
-[][]
 ---
 
 ### 📺 Latest YouTube Videos
