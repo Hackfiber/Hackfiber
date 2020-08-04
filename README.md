@@ -6,7 +6,12 @@
 - ⚡ We helps on developing your personal networking with other personals in the industry.
 - 🥅 We organize Workshops, Webinars, Hackmeets, Ted-Talks, Q & A Sessions, Bootcamps and Hackathons.
 - 👯 We organize various events by collaborating with other community.
+
 ---
+
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Hackfiber&show_icons=true&hide_border=true" />
+---
+
 ### Connect with us:
 
 [<img align="left" alt="Hackfiber.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -41,9 +46,7 @@
 - [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
 <!-- BLOG-POST-LIST:END -->
 
----
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Hackfiber&show_icons=true&hide_border=true" />
 
 [website]: https://hackfiber.com
 [facebook]: https://facebook.com/hackfiber
