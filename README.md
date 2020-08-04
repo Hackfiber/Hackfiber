@@ -6,12 +6,7 @@
 - ⚡ We helps on developing your personal networking with other personals in the industry.
 - 🥅 We organize Workshops, Webinars, Hackmeets, Ted-Talks, Q & A Sessions, Bootcamps and Hackathons.
 - 👯 We organize various events by collaborating with other community.
-
 ---
-
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Hackfiber&show_icons=true&hide_border=true" />
----
-
 ### Connect with us:
 
 [<img align="left" alt="Hackfiber.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -28,8 +23,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [BUILD THE FAMOUS TIC TAC TOE GAME IN AN HOUR!!!! | HTML CSS JS | HACKFIBER](https://www.youtube.com/watch?v=oXb6p7PrwiM)
-- [HackFiber Channel Intro](https://www.youtube.com/watch?v=A15bUVgv3Eg)
+- [Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
+- [There's more to CONSOLE than .log( ) | Things you didn't know console could do!!](https://www.youtube.com/watch?v=_-bHhEGcDiQ)
+- [Simple React.js User Login Authentication | Auth0](https://www.youtube.com/watch?v=MqczHS3Z2bc)
+- [Top 10 VS Code Updates You Don't Know About!! (July 2020)](https://www.youtube.com/watch?v=WHBQ1szkhtI)
+- [localStorage Dark/Light Mode Theme Toggle (CSS/JavaScript) | UI Design](https://www.youtube.com/watch?v=_raOFZAYXD4)
 <!-- YOUTUBE:END -->
 
 ---
@@ -43,7 +41,9 @@
 - [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
 <!-- BLOG-POST-LIST:END -->
 
+---
 
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Hackfiber&show_icons=true&hide_border=true" />
 
 [website]: https://hackfiber.com
 [facebook]: https://facebook.com/hackfiber
