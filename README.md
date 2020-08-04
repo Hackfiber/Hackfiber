@@ -30,6 +30,11 @@
 [<img align="left" height="100%" width="100%" alt="Hackfiber's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Hackfiber&show_icons=true&hide_border=true" />](https://github-repo-stats.hackfiber.vercel.app/api?username=Hackfiber&show_icons=true&hide_border=true)
 
 <br />
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+
+<br />
 
 ---
 
@@ -47,11 +52,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
+- [Arduino Workshop-2020](https://hackfiber.com/arduinoworkshop/)
+- [Open data hackathon-2020](https://hackfiber.com/open-data-hackathon-2020/)
+- [How to apply for Github Students Developer Pack](https://hackfiber.com/how-to-apply-for-github-students-developer-pack/)
+- [Bsc CSIT Second semester result 2075 batch](https://hackfiber.com/bsc-csit-second-semester-result-2075-batch/)
+- [What future do I have after completing Bsc CSIT?](https://hackfiber.com/what-future-do-i-have-after-completing-bsc-csit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
