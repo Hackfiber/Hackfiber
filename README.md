@@ -48,7 +48,6 @@
 <!-- YOUTUBE:START -->
 - [Graphics Designing with Canva | Ravi Lamichhane | Hackfiber](https://www.youtube.com/watch?v=Ew69EMtX-_E)
 - [BUILD THE FAMOUS TIC TAC TOE GAME IN AN HOUR!!!! | HTML CSS JS | HACKFIBER](https://www.youtube.com/watch?v=oXb6p7PrwiM)
-- [HackFiber Channel Intro](https://www.youtube.com/watch?v=A15bUVgv3Eg)
 <!-- YOUTUBE:END -->
 
 <!-- --- -->
