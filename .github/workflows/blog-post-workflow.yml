@@ -1,7 +1,7 @@
 name: Latest blog post workflow
 on:
   schedule:
-    # Runs every hour
+    # Runs every week sunday
     - cron: '0 0 * * 0'
   workflow_dispatch:
 
