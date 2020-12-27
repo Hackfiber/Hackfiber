@@ -59,7 +59,7 @@
 - [Open data hackathon-2020](https://hackfiber.com/open-data-hackathon-2020/)
 - [How to apply for Github Students Developer Pack](https://hackfiber.com/how-to-apply-for-github-students-developer-pack/)
 - [Bsc CSIT Second semester result 2075 batch](https://hackfiber.com/bsc-csit-second-semester-result-2075-batch/)
-- [What future do I have after completing Bsc CSIT?](https://hackfiber.com/what-future-do-i-have-after-completing-bsc-csit/)
+- [Hackfiber Learn-a-thon series Git Workshop 2020](https://hackfiber.com/hackfiber-learn-a-thon-series-git-workshop-2020/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
