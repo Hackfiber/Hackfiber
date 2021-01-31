@@ -55,11 +55,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Arduino Workshop-2020](https://hackfiber.com/arduinoworkshop/)
-- [Open data hackathon-2020](https://hackfiber.com/open-data-hackathon-2020/)
-- [How to apply for Github Students Developer Pack](https://hackfiber.com/how-to-apply-for-github-students-developer-pack/)
-- [Bsc CSIT Second semester result 2075 batch](https://hackfiber.com/bsc-csit-second-semester-result-2075-batch/)
-- [Hackfiber Learn-a-thon series Git Workshop 2020](https://hackfiber.com/hackfiber-learn-a-thon-series-git-workshop-2020/)
+- [Hello world!](https://hackfiber.com/2021/01/30/hello-world/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
