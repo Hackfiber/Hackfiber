@@ -55,7 +55,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Hello world!](https://hackfiber.com/2021/01/30/hello-world/)
+
 <!-- BLOG-POST-LIST:END -->
 
 ---
