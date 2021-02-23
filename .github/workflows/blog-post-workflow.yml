@@ -2,7 +2,7 @@ name: Latest blog post workflow
 on:
   schedule:
     # Runs every week sunday
-    - cron: '0 0 * * 0'
+    - cron: '0 0 1 1 0'
   workflow_dispatch:
 
 jobs:
