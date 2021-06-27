@@ -46,6 +46,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Day 1: Intro to GitHub | Git & GitHub BootCamp | Suparth Ghimire | Hackfiber](https://www.youtube.com/watch?v=k5XCgq6csFo)
 - [Video Editing with Filmora | By Mohan Rawat | Hackfiber](https://www.youtube.com/watch?v=5_XGDd-r5Qk)
 - [Graphics Designing with Canva | Ravi Lamichhane | Hackfiber](https://www.youtube.com/watch?v=Ew69EMtX-_E)
 - [BUILD THE FAMOUS TIC TAC TOE GAME IN AN HOUR!!!! | HTML CSS JS | HACKFIBER](https://www.youtube.com/watch?v=oXb6p7PrwiM)
