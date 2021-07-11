@@ -46,9 +46,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Day 4 | Web Development Bootcamp | HTML CSS | By Suparth Ghimire | Hackfiber](https://www.youtube.com/watch?v=iAW4oL90Icw)
+- [Day 3 | Web Development Bootcamp | HTML CSS | By Suparth Ghimire | Hackfiber](https://www.youtube.com/watch?v=jnu3odt_17Y)
+- [Day 2 | Web Development Bootcamp | HTML CSS | By Suparth Ghimire | Hackfiber](https://www.youtube.com/watch?v=5A3N9ImPta0)
+- [Day 1 | Web Development Bootcamp | HTML CSS | By Suparth Ghimire | Hackfiber](https://www.youtube.com/watch?v=51Ei3gKuIQk)
 - [Video Editing with Filmora | By Mohan Rawat | Hackfiber](https://www.youtube.com/watch?v=5_XGDd-r5Qk)
-- [Graphics Designing with Canva | Ravi Lamichhane | Hackfiber](https://www.youtube.com/watch?v=Ew69EMtX-_E)
-- [BUILD THE FAMOUS TIC TAC TOE GAME IN AN HOUR!!!! | HTML CSS JS | HACKFIBER](https://www.youtube.com/watch?v=oXb6p7PrwiM)
 <!-- YOUTUBE:END -->
 
 <!-- --- -->
